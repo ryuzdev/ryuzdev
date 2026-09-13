@@ -11,4 +11,4 @@ on a mission to put vanilla ts web on the map.
 
 Reach out:
 - ryuzer@proton.me
-- Discord: yzuyr
+- Discord: ryuzdev
