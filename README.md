@@ -4,7 +4,7 @@ on a mission to put vanilla ts web on the map.
 
 `typescript` `rust` `go`
 
-- [ilha](https://github.com/ilhajs/ilha) — tiny isomorphic UI framework with SSR & hydration
+- [ilha](https://github.com/ilhajs/ilha) — Tiny isomorphic UI framework with SSR & hydration
 - [noite](https://github.com/ryuzcorp/noite) — Tiny self-hostable PaaS for celld
 - [paranorm](https://github.com/ryuzcorp/paranorm) — Effect SQL on steroids
 
